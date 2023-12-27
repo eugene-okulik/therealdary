@@ -18,3 +18,4 @@ my_dict['set'].add(6)
 my_dict['set'].remove(1)
 
 print("Обновленный словарь:", my_dict)
+
